@@ -1,4 +1,4 @@
-Title,artistName,Genre,bpm,energy,danceability,dB,liveness,valence,acousticness,speechiness
+title,artist,top genre,bpm,nrgy,dnce,dB,live,val,acous,spch
 Tie Me Down (feat. Ray J),New Boyz,dance pop,97.967,0.787,0.42,-4.467,0.198,0.38,0.0104,0.294
 Your Love,Nicki Minaj,dance pop,189.629,0.52,0.424,-10.231,0.411,0.184,0.00204,0.343
 Party In The U.S.A.,Miley Cyrus,dance pop,96.021,0.698,0.652,-4.667,0.0886,0.47,0.00112,0.042
